@@ -1,4 +1,4 @@
-# Payday2-Multicamo-Vest-Pack
+# Payday2 Multicamo Vest Pack
 
 This is a texture Mod for Payday2 to change the look of your armor.
 The pack replaces the normal grey vests.
